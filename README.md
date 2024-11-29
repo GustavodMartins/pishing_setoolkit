@@ -6,15 +6,30 @@ Passo a passo para mostrar como capturar senha de sites na internet
 * Setoolkit
 
 <h2>Passo a Passo</h2>
-<p>* Abra o terminal</p>
-<p>* Entre com o usuário master sudo su</p>
-<p>* digite  _settoolkit_ </p>
-<p>* escolha a opção: _WEBSITE ATTACK VECTORS_</p>
-<p>* em seguida escolha a opção: CREDENTIAL HARVESTER ATTACK METHOD</p>
-<p>* opção: SITE CLONER</p>
-<p>* escolha o IP da maquina que vai receber os dados do ataque</p>
-<p>* digite a URL do site</p>
 
-  <h2>Resultado</h2>
-  
+*Abra o terminal
+
+*Entre com o usuário master sudo su 
+
+*Digite **settoolkit**
+
+*Escolha a opção:**WEBSITE ATTACK VECTORS**
+
+*Em seguida escolha a opção: **CREDENTIAL HARVESTER ATTACK METHOD**
+
+*Opção: **SITE CLONER**
+
+*Escolha o IP da maquina que vai receber os dados do ataque
+
+*Digite a URL do site
+
+<h2>Resultado</h2>
+
+<img src="https://github.com/user-attachments/assets/10ba61fc-bdbc-4bc4-8cfb-84e5f3de3341">
+
+
+
+
+
+
 
