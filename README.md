@@ -2,26 +2,28 @@
 Passo a passo para mostrar como capturar senha de sites na internet
 
 <h2>Ferramentas:</h2>
-<p>* Kali Linux </p>
+
+* Kali Linux
+
 * Setoolkit
 
 <h2>Passo a Passo</h2>
 
-*Abra o terminal
+* Abra o terminal
 
-*Entre com o usuário master sudo su 
+* Entre com o usuário master sudo su 
 
-*Digite **settoolkit**
+* Digite **setoolkit**
 
-*Escolha a opção:**WEBSITE ATTACK VECTORS**
+* Escolha a opção:**WEBSITE ATTACK VECTORS**
 
-*Em seguida escolha a opção: **CREDENTIAL HARVESTER ATTACK METHOD**
+* Em seguida escolha a opção: **CREDENTIAL HARVESTER ATTACK METHOD**
 
-*Opção: **SITE CLONER**
+* Opção: **SITE CLONER**
 
-*Escolha o IP da maquina que vai receber os dados do ataque
+* Escolha o **IP da maquina** que vai receber os dados do ataque
 
-*Digite a URL do site
+* Digite a **URL do site**
 
 <h2>Resultado</h2>
 
